@@ -15,6 +15,10 @@ I shape digital products by connecting user needs, business goals, and product o
 
 Figma · Framer · Notion
 
+## AI & Development Tools
+
+Claude · OpenAI Codex · Google Antigravity
+
 ## Portfolio
 
 Explore my design work on [Behance](https://www.behance.net/ahasanulkarim1808).
