@@ -44,6 +44,14 @@ A self-initiated Figma desktop landing-page concept exploring how parents compar
 
 [Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/codekids-design) · [Read the Behance case study](https://www.behance.net/gallery/257050573/CodeKids-Kids-Coding-School-Landing-Page-Concept)
 
+### VÉLORA | Editorial Fashion Storefront Concept
+
+[![VÉLORA: photo-free cover for a self-initiated editorial storefront concept](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/velora-design/main/assets/velora-cover.png)](https://github.com/ahasanulkarimkhan-uiux/velora-design)
+
+A self-initiated Figma desktop fashion storefront concept exploring collection browsing and garment comparison. The repository documents my design contribution, reserved price-slot decision and browsing routes, with a photo-free cover, story panel and layout diagram.
+
+[Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/velora-design) · [Read the Behance case study](https://www.behance.net/gallery/256963517/VELORA-Editorial-Fashion-Storefront-Concept)
+
 ## Portfolio
 
 - [Behance](https://www.behance.net/ahasanulkarim1808)
