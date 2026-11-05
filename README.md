@@ -21,4 +21,5 @@ Claude · OpenAI Codex · Google Antigravity
 
 ## Portfolio
 
-Explore my design work on [Behance](https://www.behance.net/ahasanulkarim1808).
+- [Behance](https://www.behance.net/ahasanulkarim1808)
+- [LinkedIn](https://www.linkedin.com/in/ahasanulkarim1808)
