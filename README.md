@@ -52,6 +52,14 @@ A self-initiated Figma desktop fashion storefront concept exploring collection b
 
 [Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/velora-design) · [Read the Behance case study](https://www.behance.net/gallery/256963517/VELORA-Editorial-Fashion-Storefront-Concept)
 
+### Aastha | Family Care App UX Case Study
+
+[![Aastha family care case-study cover with a dashboard presentation mockup](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/aastha-product-design/main/assets/aastha-cover.jpg)](https://github.com/ahasanulkarimkhan-uiux/aastha-product-design)
+
+An Android-first product design case study for family care coordination in Bangladesh. The repository connects research synthesis to bilingual patient and caregiver journeys, health-record retrieval, medicine schedules and consent-based sharing, with selected presentation panels and clear validation limits.
+
+[Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/aastha-product-design) · [Read the Behance case study](https://www.behance.net/gallery/257966521/Aastha-Family-Care-App-UX-Case-Study)
+
 ## Portfolio
 
 - [Behance](https://www.behance.net/ahasanulkarim1808)
