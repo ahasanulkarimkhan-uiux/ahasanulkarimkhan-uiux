@@ -26,7 +26,7 @@ Figma · Framer · Notion
 
 Claude · OpenAI Codex · Google Antigravity
 
-## Featured design project
+## Featured design projects
 
 ### Cravo | Responsive Food Discovery Website
 
@@ -35,6 +35,14 @@ Claude · OpenAI Codex · Google Antigravity
 A self-initiated Figma concept exploring delivery-address entry and food browsing across desktop, tablet and mobile. The repository documents my design contributions, responsive decisions and selected presentation previews.
 
 [Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/cravo-design) · [Read the Behance case study](https://www.behance.net/gallery/256962485/Cravo-Responsive-Food-Discovery-Website-UXUI-Concept)
+
+### CodeKids | Kids' Coding School Landing Page Concept
+
+[![CodeKids: course discovery and trial requests, a self-initiated Figma concept](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/codekids-design/main/assets/codekids-cover.png)](https://github.com/ahasanulkarimkhan-uiux/codekids-design)
+
+A self-initiated Figma desktop landing-page concept exploring how parents compare coding courses and request a trial. The repository documents my design contribution, course-comparison decisions and callback wording, with selected photo-free presentation panels.
+
+[Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/codekids-design) · [Read the Behance case study](https://www.behance.net/gallery/257050573/CodeKids-Kids-Coding-School-Landing-Page-Concept)
 
 ## Portfolio
 
