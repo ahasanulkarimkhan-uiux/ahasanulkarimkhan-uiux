@@ -12,7 +12,7 @@ I design intuitive digital experiences for mobile apps and websites, with a focu
 
 ## Tools
 
-Figma · Adobe XD
+Figma
 
 ## Portfolio
 
