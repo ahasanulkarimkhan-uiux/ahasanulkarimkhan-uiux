@@ -4,12 +4,19 @@
 
 I shape digital products by connecting user needs, business goals, and product outcomes—from discovery and UX flows to interface design, prototyping, and validation.
 
-## Product Design Focus
+## Focus
 
-- Product discovery and problem framing around user needs and business goals
-- Product direction, user journeys, and feature prioritization
-- UX flows, wireframes, and interfaces for mobile apps and responsive websites
+### UX/UI Design
+
+- UX research, user flows, and wireframes
+- Interfaces for mobile apps and responsive websites
 - Prototyping, usability validation, and design systems
+
+### Product Design
+
+- Product discovery and problem framing
+- Connecting user needs, business goals, and product outcomes
+- Product direction, user journeys, and feature prioritization
 
 ## Tools
 
