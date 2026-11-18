@@ -28,6 +28,14 @@ Claude · OpenAI Codex · Google Antigravity
 
 ## Featured design projects
 
+### Tilaora House | Boutique Stay Website Design
+
+[![Tilaora House desktop and mobile website concept with dates, guests and room rates](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/tilaora-house/main/tilaora-behance-cover.jpg)](https://ahasanulkarimkhan-uiux.github.io/tilaora-house/)
+
+A self-initiated responsive hospitality website concept for Sreemangal. The first screen brings dates, guest count and a starting nightly rate together; six room types lead into a local stay review. The rooms, rates and imagery are illustrative, and the prototype does not check live availability or complete a reservation.
+
+[Open the live HTML website](https://ahasanulkarimkhan-uiux.github.io/tilaora-house/) · [Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/tilaora-house) · [Read the Behance case study](https://www.behance.net/gallery/258553487/Tilaora-House-Boutique-Stay-Website-Design)
+
 ### Cravo | Responsive Food Discovery Website
 
 [![Cravo address-entry concept across desktop, tablet and mobile](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/cravo-design/main/assets/cravo-cover.png)](https://github.com/ahasanulkarimkhan-uiux/cravo-design)
@@ -64,3 +72,4 @@ An Android-first product design case study for family care coordination in Bangl
 
 - [Behance](https://www.behance.net/ahasanulkarim1808)
 - [LinkedIn](https://www.linkedin.com/in/ahasanulkarim1808)
+
