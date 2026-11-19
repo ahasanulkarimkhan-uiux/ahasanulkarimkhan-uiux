@@ -28,6 +28,14 @@ Claude · OpenAI Codex · Google Antigravity
 
 ## Featured design projects
 
+### Hospital Appointment System | Mobile App UX Case Study
+
+[![Original Hospital Appointment System three-screen mockup](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/hospital-appointment-system/main/hospital-appointment-system-ux-mockup.png)](https://ahasanulkarimkhan-uiux.github.io/hospital-appointment-system/)
+
+A self-initiated healthcare UX concept connecting appointment booking, live queue visibility, schedule alerts and visit records. The persona and expected benefits are illustrative and await patient validation.
+
+[Open the live HTML case study](https://ahasanulkarimkhan-uiux.github.io/hospital-appointment-system/) · [Explore the design repository](https://github.com/ahasanulkarimkhan-uiux/hospital-appointment-system) · [View the Figma source](https://www.figma.com/design/JTLyUFSO20IWTa8i98Wo45/Hospital-Appointment-System-UX-Challenge?node-id=31-7)
+
 ### Tilaora House | Boutique Stay Website Design
 
 [![Tilaora House desktop and mobile website concept with dates, guests and room rates](https://raw.githubusercontent.com/ahasanulkarimkhan-uiux/tilaora-house/main/tilaora-behance-cover.jpg)](https://ahasanulkarimkhan-uiux.github.io/tilaora-house/)
